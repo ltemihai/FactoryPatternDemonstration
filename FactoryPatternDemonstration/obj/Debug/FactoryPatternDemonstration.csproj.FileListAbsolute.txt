@@ -1,0 +1,6 @@
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\FactoryPatternDemonstration\FactoryPatternDemonstration\bin\Debug\FactoryPatternDemonstration.exe.config
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\FactoryPatternDemonstration\FactoryPatternDemonstration\bin\Debug\FactoryPatternDemonstration.exe
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\FactoryPatternDemonstration\FactoryPatternDemonstration\bin\Debug\FactoryPatternDemonstration.pdb
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\FactoryPatternDemonstration\FactoryPatternDemonstration\obj\Debug\FactoryPatternDemonstration.csprojResolveAssemblyReference.cache
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\FactoryPatternDemonstration\FactoryPatternDemonstration\obj\Debug\FactoryPatternDemonstration.exe
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\FactoryPatternDemonstration\FactoryPatternDemonstration\obj\Debug\FactoryPatternDemonstration.pdb
